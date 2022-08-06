@@ -24,7 +24,7 @@ class App extends Component {
         )
       );
   }
-   
+   //TESTING
   onSearchChange = (event) => {
     // console.log([...event.target.value]);
 
